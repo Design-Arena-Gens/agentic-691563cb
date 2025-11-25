@@ -28,10 +28,7 @@ yarn-error.log*
 lerna-debug.log*
 pnpm-debug.log*
 
-# Package manager lock files
-package-lock.json
-yarn.lock
-pnpm-lock.yaml
+# Package manager caches
 .pnpm-store/
 
 # Runtime data
